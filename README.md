@@ -8,8 +8,13 @@ webpack use Instructions
 3.npm init一路回车
 4. npm i -S -D webpack//安装依赖项
 5.根目录下新建以下文件
-
-
+app
+  main.js
+  work.js
+public
+  index.html
+  
+  
 6.main.js
 require("./work.js");
 work.js
